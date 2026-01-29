@@ -1,4 +1,7 @@
-<hr>
+<div align="center">
+This text is centered
+</div>
+<div>
 ```
                             <██████╗   ██╗   ██╗   ██╗   ██║   ████████╗   ██╗   ██╗>
                             <██╔══██╗  ██║   ██║   ██║   ██║   ╚══██╔══╝   ██║   ██║>
@@ -9,6 +12,7 @@
                                                                                                                         
                                        < html > < css > < javascript >
 ```
+</div>
 
 💻 Building full-stack applications from scratch  
 🔧 Turning ideas into working systems  
