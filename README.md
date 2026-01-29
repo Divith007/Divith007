@@ -1,3 +1,6 @@
+<p align="center">
+  This text will be centered in the README.
+</p
 ```
                         <██████╗   ██╗   ██╗   ██╗   ██║   ████████╗   ██╗   ██╗>
                         <██╔══██╗  ██║   ██║   ██║   ██║   ╚══██╔══╝   ██║   ██║>
