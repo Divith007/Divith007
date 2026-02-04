@@ -15,10 +15,10 @@
 
 ## Hey, I'm Divith
 
-💻 Building full-stack applications from scratch  
-🔧 Turning ideas into scalable working systems  
-🧠 Exploring AI, Cybersecurity, and Modern Software Engineering  
-🚀 Always learning. Always shipping.  
+- Building full-stack applications from scratch  
+- Turning ideas into scalable working systems  
+- Exploring AI, Cybersecurity, and Modern Software Engineering  
+- Always learning. Always shipping.  
 
 > 📌 Consistency > Motivation
 
