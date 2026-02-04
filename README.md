@@ -13,7 +13,7 @@
 
 ---
 
-## 👋 Hey, I'm Divith
+## Hey, I'm Divith
 
 💻 Building full-stack applications from scratch  
 🔧 Turning ideas into scalable working systems  
@@ -24,26 +24,26 @@
 
 ---
 
-## ⚡ Tech Stack
+## Tech Stack
 
-### 🧩 Languages
+### Languages
 `Python` `Java` `JavaScript` `SQL`
 
-### 🌐 Frontend
+### Frontend
 `HTML` `CSS` `React (Learning)`
 
-### 🔧 Backend
+### Backend
 `Node.js (Learning)` `Express.js (Learning)`
 
-### 🗄️ Databases
+### Databases
 `MySQL` `MongoDB (Learning)`
 
-### 🛠 Tools & Interests
+###  Tools & Interests
 `Git` `Linux` `APIs` `Security` `AI/ML` `Problem Solving`
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 - MERN Stack Development
 - AI-powered applications
 - Secure coding practices
@@ -51,7 +51,7 @@
 
 ---
 
-## 🤝 Let's Build Something Cool
+## Let's Build Something Cool
 Open to collaboration, hackathons, and interesting projects.
 
 ```
