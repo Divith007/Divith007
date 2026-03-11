@@ -8,7 +8,7 @@
 </pre>
 
 <h3 align="center">
-  &lt; html / css / javascript / python / java / sql / mern &gt;
+  &lt; html / css / javascript / python / java / sql / mern / cybersecurity &gt;
 </h3>
 
 ---
