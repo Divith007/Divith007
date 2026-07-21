@@ -28,7 +28,7 @@ Building secure, intelligent, and scalable software systems by combining
 public class Developer {
 
     String name = "Divith S.D";
-    String role = "Backend Developer & Cybersecurity Enthusiast";
+    String role = "Full Stack Developer & Artificial Intelligence Enthusiast";
 
     String[] interests = {
         "Full Stack Developer",
