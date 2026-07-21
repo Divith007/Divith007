@@ -15,8 +15,7 @@
 
 <p>
 Building secure, intelligent, and scalable software systems by combining 
-<strong>Backend Engineering</strong>, <strong>Artificial Intelligence</strong>, and 
-<strong>Cybersecurity</strong>.
+<strong>Full Stack Developer</strong>, <strong>Artificial Intelligence</strong>
 </p>
 
 </div>
