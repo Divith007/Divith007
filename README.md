@@ -11,7 +11,7 @@
 
 # 👋 Hi, I'm Divith S.D
 
-### `B.Tech CSE | Cybersecurity | Backend Developer | AI Enthusiast`
+### `B.Tech CSE | Cybersecurity | Full Stack Developer | AI Enthusiast`
 
 <p>
 Building secure, intelligent, and scalable software systems by combining 
@@ -86,26 +86,9 @@ Microservices
 
 ### Databases
 ```
-MySQL
-MongoDB
+MySQ
 Database Design
 SQL Optimization
-```
-
----
-
-# 🔐 Cybersecurity & AI
-
-```
-Web Application Security
-Secure Coding Practices
-Network Security
-Vulnerability Analysis
-Threat Detection
-
-Machine Learning
-Natural Language Processing
-AI Security Applications
 ```
 
 ---
@@ -148,22 +131,6 @@ Qt Framework
 System Programming
 Cybersecurity
 ```
-
----
-
-## 📊 CRM Application
-
-Desktop-based Customer Relationship Management system.
-
-### Tech Stack
-
-```
-Python
-PySide6
-Database Integration
-GUI Development
-```
-
 ---
 
 # 📚 Currently Learning
@@ -172,9 +139,7 @@ GUI Development
 ☑ Advanced Java
 ☑ Spring Boot
 ☑ Microservices Architecture
-☑ MERN Stack
 ☑ System Design
-☑ Cloud Fundamentals
 ☑ AI Engineering
 ```
 
