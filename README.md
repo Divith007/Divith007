@@ -1,66 +1,214 @@
-<pre>
-                                        ██████╗  ██╗██╗   ██╗██╗████████╗██╗  ██╗
-                                        ██╔══██╗ ██║██║   ██║██║╚══██╔══╝██║  ██║
-                                        ██║  ██║ ██║██║   ██║██║   ██║   ███████║
-                                        ██║  ██║ ██║╚██╗ ██╔╝██║   ██║   ██╔══██║
-                                        ██████╔╝ ██║ ╚████╔╝ ██║   ██║   ██║  ██║
-                                        ╚═════╝  ╚═╝  ╚═══╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
-</pre>
-
-<h3 align="center">
-  &lt; html / css / javascript / python / java / sql / mern / cybersecurity &gt;
-</h3>
-
----
-
-## Hey, I'm Divith
-
-- Building full-stack applications from scratch  
-- Turning ideas into scalable working systems  
-- Exploring AI, Cybersecurity, and Modern Software Engineering  
-- Always learning. Always shipping.  
-
-> 📌 Consistency > Motivation
-
----
-
-## Tech Stack
-
-### Languages
-`Python` `Java` `JavaScript` `SQL`
-
-### Frontend
-`HTML` `CSS` `React (Learning)`
-
-### Backend
-`Node.js (Learning)` `Express.js (Learning)`
-
-### Databases
-`MySQL` `MongoDB (Learning)`
-
-###  Tools & Interests
-`Git` `Linux` `APIs` `Security` `AI/ML` `Problem Solving`
-
----
-
-## Current Focus
-- MERN Stack Development
-- AI-powered applications
-- Secure coding practices
-- System design fundamentals
-
----
-
-## Let's Build Something Cool
-Open to collaboration, hackathons, and interesting projects.
+<div align="center">
 
 ```
-while(alive){
-    learn();
-    build();
-    improve();
+██████╗ ██╗██╗   ██╗██╗████████╗██╗  ██╗
+██╔══██╗██║██║   ██║██║╚══██╔══╝██║  ██║
+██║  ██║██║██║   ██║██║   ██║   ███████║
+██║  ██║██║╚██╗ ██╔╝██║   ██║   ██╔══██║
+██████╔╝██║ ╚████╔╝ ██║   ██║   ██║  ██║
+╚═════╝ ╚═╝  ╚═══╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
+
+# 👋 Hi, I'm Divith S.D
+
+### `B.Tech CSE | Cybersecurity | Backend Developer | AI Enthusiast`
+
+<p>
+Building secure, intelligent, and scalable software systems by combining 
+<strong>Backend Engineering</strong>, <strong>Artificial Intelligence</strong>, and 
+<strong>Cybersecurity</strong>.
+</p>
+
+</div>
+
+---
+
+## 🧑‍💻 About Me
+
+```java
+public class Developer {
+
+    String name = "Divith S.D";
+    String role = "Backend Developer & Cybersecurity Enthusiast";
+
+    String[] interests = {
+        "Backend Engineering",
+        "Artificial Intelligence",
+        "Secure Software Development",
+        "System Design"
+    };
+
+    void mission(){
+        System.out.println(
+        "Building technology that is scalable, intelligent and secure."
+        );
+    }
 }
 ```
 
+- 🔭 Currently building backend systems and AI-powered applications
+- 🛡️ Exploring cybersecurity, secure architectures, and threat detection
+- 🤖 Interested in applying AI for real-world security problems
+- 🚀 Turning ideas into scalable software solutions
+- 📚 Learning through projects, research, and challenges
+
 ---
-⭐ *Code. Break. Fix. Repeat.*
+
+# ⚙️ Tech Stack
+
+## 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🌐 Development
+
+### Frontend
+```
+HTML
+CSS
+JavaScript
+React.js
+```
+
+### Backend
+```
+Java Spring Boot
+Node.js
+Express.js
+REST APIs
+Microservices
+```
+
+### Databases
+```
+MySQL
+MongoDB
+Database Design
+SQL Optimization
+```
+
+---
+
+# 🔐 Cybersecurity & AI
+
+```
+Web Application Security
+Secure Coding Practices
+Network Security
+Vulnerability Analysis
+Threat Detection
+
+Machine Learning
+Natural Language Processing
+AI Security Applications
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🛡️ AI-Driven Dynamic Security Policy Enforcer
+
+An AI-powered framework designed for adaptive web application protection.
+
+### Tech Stack
+```
+Python
+DistilBERT
+Machine Learning
+Cybersecurity
+Web Security
+```
+
+### Features
+- Detects SQL Injection attacks
+- Identifies Command Injection threats
+- Detects CSRF and SSRF attacks
+- AI-based threat classification
+- Dynamic security policy enforcement
+
+---
+
+## 🧹 Disk Sanitization System
+
+**Smart India Hackathon 2025 Project**
+
+A secure data destruction system designed for permanent disk wiping and privacy protection.
+
+### Tech Stack
+
+```
+C++
+Qt Framework
+System Programming
+Cybersecurity
+```
+
+---
+
+## 📊 CRM Application
+
+Desktop-based Customer Relationship Management system.
+
+### Tech Stack
+
+```
+Python
+PySide6
+Database Integration
+GUI Development
+```
+
+---
+
+# 📚 Currently Learning
+
+```
+☑ Advanced Java
+☑ Spring Boot
+☑ Microservices Architecture
+☑ MERN Stack
+☑ System Design
+☑ Cloud Fundamentals
+☑ AI Engineering
+```
+
+---
+
+# 🧠 Developer Philosophy
+
+```python
+while True:
+    learn()
+    build()
+    secure()
+    improve()
+```
+
+> "Great software is not only functional — it is scalable, secure, and meaningful."
+
+---
+
+# 🤝 Let's Connect
+
+Open to:
+
+```
+🚀 Open Source Contributions
+💡 AI + Cybersecurity Projects
+🏆 Hackathons
+🤝 Technical Collaborations
+```
+
+---
+
+<div align="center">
+
+### ⭐ Code → Create → Secure → Improve
+
+</div>
