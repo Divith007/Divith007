@@ -31,7 +31,7 @@ public class Developer {
     String role = "Backend Developer & Cybersecurity Enthusiast";
 
     String[] interests = {
-        "Backend Engineering",
+        "Full Stack Developer",
         "Artificial Intelligence",
         "Secure Software Development",
         "System Design"
